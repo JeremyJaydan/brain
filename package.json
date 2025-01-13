@@ -1,5 +1,5 @@
 {
-    "name": "brain.jeremyjaydan.dev",
+    "name": "brain",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
@@ -8,14 +8,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/JeremyJaydan/brian.jeremyjaydan.dev.git"
+        "url": "git+https://github.com/JeremyJaydan/brian.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/JeremyJaydan/brian.jeremyjaydan.dev/issues"
+        "url": "https://github.com/JeremyJaydan/brian/issues"
     },
-    "homepage": "https://github.com/JeremyJaydan/brian.jeremyjaydan.dev#readme",
+    "homepage": "https://github.com/JeremyJaydan/brian#readme",
     "dependencies": {
         "express": "^4.17.1"
     }

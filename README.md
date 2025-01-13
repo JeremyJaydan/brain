@@ -1,3 +1,3 @@
-# brain.jeremyjaydan.dev
+# Brian
 
-Simple brainstorming tool built for speed
+Brainstorming tool built for speed
