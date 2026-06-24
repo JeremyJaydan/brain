@@ -1,3 +1,3 @@
 # Brian
 
-Brainstorming tool built for speed
+A brainstorming tool built for speed
